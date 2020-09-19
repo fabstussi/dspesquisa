@@ -7,7 +7,6 @@ import {
   Play_400Regular,
   Play_700Bold
 } from '@expo-google-fonts/play';
-import Header from './src/components/Header';
 import Routes from './src/routes';
 
 export default function App() {
@@ -32,4 +31,4 @@ const styles = StyleSheet.create({
   container: {
     flex: 1
   }
- });
+});
