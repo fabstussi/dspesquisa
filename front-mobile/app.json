@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "front-mobile",
-    "slug": "front-mobile",
+    "slug": "sds1-fabstussi",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Criado na 1a Semana DevSuperio, usando React-Native\nObrigado aos professores:  Nélio e Washington",
+    "githubUrl": "https://github.com/fabstussi/dspesquisa/tree/master/front-mobile"
   }
 }
