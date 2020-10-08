@@ -6,7 +6,7 @@
 
 ### #BACK-END
 * Linguagem: **Java**.
-* Recurso: [Heroku](https://.heroku.com).
+* Recurso: [Heroku](https://heroku.com).
 * Ferramentas
 	* SQL: Pastman e Postgre SQL.
 	* IDE: Spring Tools.
